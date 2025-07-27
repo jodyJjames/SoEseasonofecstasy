@@ -1,1 +1,1 @@
-This is for the animatedseries content
+This folder contains all serialized content for the Season of Ecstasy universe : Live - action sitcoms - Folklore adaptations - Short-form skits - Animated series ( 100 plus episodes ) - Streaming and broadcasting - ready storylines Each series will have its own subfolder with scripts , visual assets , voice casting , and storyboard archives .
