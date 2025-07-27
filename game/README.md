@@ -1,1 +1,1 @@
-This is for game content
+This folder contains all game - related assets and development for the Season of Ecstasy universe. This includes High Tide : The Game , mobile spinoffs , console adaptations , arcade experiences , and immersive simulations. Each game will have its own folder for code , visuals , story arcs and gameplay mechanics 
