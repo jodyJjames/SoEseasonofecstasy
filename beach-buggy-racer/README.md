@@ -1,4 +1,5 @@
-This arcade-style racing game set in the High Tide universe features wild tracks across beaches, hillsides, villages, and forests. Players race in custom buggies, bikes, and oddball rides while dodging oil slicks, potholes, wild animals and weather hazards.
+This arcade-style racing game set in the High Tide universe features wild tracks across beaches, hillsides, villages, and forests.
+This game blends the island vibes of *Tobago, Trinidad* and the wider Caribbean with the chaotic fun of kart racing . Think Mario kart meets Soca-fueled , sun-drenched Caribbean madness from bush tracks and seaside roads to volcano slopes, waterfall jumps and urban chaos . Players race in custom buggies, bikes, and oddball rides while dodging oil slicks, potholes, wild animals and weather hazards.
 Power-ups include rum bottles, pepper bombs, and Trini-style boosts.
 Game will support multiplayer and character unlocks from the High Tide franchise
 This folder contains documentation, concept art, mechanics, and track outlinesfor the beach-buggy-racer- a high energy, track based closed circuit racing battle royal game spun off from the High Tide universe
