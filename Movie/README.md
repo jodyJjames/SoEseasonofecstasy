@@ -1,107 +1,56 @@
-Perfect, Jody. You’re locked in at home base:
-https://github.com/jodyJjames/SoEseasonofecstasy
-Now follow me — step-by-step — and let’s add the Movie folder with the High Tide README.
-
-
----
-
-🎬 STEP 1: Create the Movie Folder
-
-1. Click “Add file” (top-right near the green “<> Code” button).
-
-
-2. From the dropdown, click “Create new file.”
-
-
-
-
----
-
-🎬 STEP 2: Name the File
-
-In the file name box at the top, enter:
-
-Movie/README.md
-
-> This will automatically create the Movie folder and add a README.md inside it.
-
-
-
-
----
-
-🎬 STEP 3: Paste the Content
-
-Copy this entire block below and paste it into the large text area:
-
-# 🎬 HIGH TIDE – The Movie (by Season of Ecstasy)
-
-**HIGH TIDE** is the flagship cinematic project of the SoE Universe — a raw, stylish, high-stakes journey that mixes crime, culture, carnival, and consciousness.
-
-## 🎥 Synopsis
-
-Jody, a hustler born in the forested backroads of Trinidad, returns home for Carnival after years abroad. But this time, he’s carrying more than memories — he’s smuggling tech, secrets, and heat. Over one wild week, he navigates love, betrayal, vibes, hallucinations, and a massive international sting that could end it all.
-
-> “A week in paradise, a lifetime of consequences.”
-
-## 🌊 Style & Energy
-
-Think:  
-- **Project X** meets **City of God**  
-- With the heat of **Belly**, the depth of **Top Boy**, and the rhythm of **Trinidad Carnival**
-
-## 🧠 Vision
-
-This is not just a movie. It’s an ecosystem.  
-HIGH TIDE connects to:
-- SoE game lore (playable characters, missions, and locations)
-- The SoE animated series
-- Real brands, artists, and music from T&T and beyond
-- A global underground future where freedom is digital, tribal, and tropical
-
-## 🎯 Goals
-
-- Produce a Hollywood-grade film set entirely in the Caribbean
-- Empower Caribbean voices, visuals, and culture
-- Build global hype for SoE across all platforms (film, gaming, crypto, fashion)
-
-## 📂 Suggested Subfolders
-
-- `/Screenplay/` – full script + breakdowns
-- `/Visuals/` – concept art, scenes, locations
-- `/Soundtrack/` – licensed tracks, scoring
-- `/Characters/` – bios, arcs, casting
-- `/Trailer/` – teaser content and plan
-
----
-
-© 2025 SoE Holdings Inc. All rights reserved.
-
-
----
-
-🎬 STEP 4: Commit the File
-
-1. Scroll down to the Commit new file section.
-
-
-2. In the message box, enter:
-
-Create README for High Tide movie
-
-
-3. Click the green “Commit new file” button.
-
-
-
-
----
-
-Once you do that, reply:
-“High Tide is in.”
-
-And we’ll move to: ✅ Screenplay folder
-✅ Characters
-✅ Visual pitch decks
-All frame-by-frame. We locking this in as a cinematic empire.
-
+# High Tide : The Movie
+**An explosive , high-octane Caribbean action film** set over the course of one week told through the eyes of *Jody* , a former island hustler turned reluctant hero
+## Logline
+When a shipment goes missing off the coast of Trinidad ,local street legend Jody is dragged back into a world of smugglers , wild parties , drone chases , cartel depts , and dangerous loyalties - all building toward a final showdown at #High Tide#
+## Project Overview
+**Title** High Tide
+**Genre** Action / Thriller / Crime / Comedy
+**Setting** Mix of *Belly* , *Shottas* , *Fast & Furious* , *City of Gods* , and *Spring Breakers*
+**Style** Realistic cinematography and vibrant Caribben colors with hallucinations for comic relief
+## Vision
+High Tide will be built from scratch as a full Hollywood-quality motion picture using AI and real-world collaborators . This includes: 
+Full screenplay with dialogue and scene breakdowns
+Cast of fully developed characters with visual references
+Scenes from Jody's childhood and the dark , joyful reality of village life
+Action sequence: smuggling ops , drone chases , ocean escapes , Jouvert chaos
+Emotional arcs: loyalty , betrayal , forgiveness , and revenge
+Hallucination scenes for comic relief
+Trailer and in-film soundtrack: *Machel Montano , Snoop Dogg , Kanye West*
+##core Characters
+Name / Role / Discription
+**Jody** / Protagonist / Reformed hustler haunted by past choices . Smart , streetwise , charismatic . 
+**Shorty** / Comic Relief / Hilarious best friend , loyal but unpredictable
+**Kevin** / Antagonist / Ruthless ex-partner , now a dangerous middleman in a cartel deal . 
+**Tulom** / The Enforcer / Silent killer with a code . Stylish and deadly . 
+**Jody's Mom** / Soul of the Story / Wise , spiritual , and full of warmth .
+**Dennis** / Cop or Partner / Possibly Jody's ex-friend turned lawman . 
+**Mystery Buyer**  / Final Boss / Foreign character connected to larger crime networks .
+> Supporting cast includes Djs , dancers , villagers , smugglers , corrupt cops , and hallucinations .
+## Structure
+**Act 1:** Childhood flashbacks > Shipment goes missing > Kevin returns
+**Act 2:** Jody gets pulle back in > Conflict deepens > Hallucinations and betrayal
+**Act 3:** Wild climax during High TIde party plus police raid plus final escape
+## Scene Types
+Childhood village games , fishing , stealing fruit , building carts 
+Smuggling routes through forests , rivers , and beaches
+Drone-car chase scenes and supercars
+Carnival and Jouvert scenes with actual artists and party madness
+Jungle escapes and ambushes
+Flashbacks , hallucinations , and emotional monologues 
+## AI and Human generation: GPT-4 and User direction
+Visuals: DALL.E plus Sora plus User real-life references
+Soundtrack: Connected to this story world
+Licensing plus Partnership: Angustura , Carib , Blue Waters , Nike , Sony , RedBull etc.
+## Timeline
+Week-long story , real-time intensity
+Film runtime target: 110-120 minutes
+Production: Script > Scenes > Storyboards > Final film and game assets
+## Connection to Season of Ecstasy
+High Tide is the **first cinematic entry** in the **Season of Ecstasy Universe** - connecting directly to:
+Custom ebikes and drone cars featured in the film
+Immersive video game and animated spinoofs
+Digital currency , merch and real-world festival plans
+## Status 
+This project is currently in **active development** by Jody James and Genie (OpenAI)
+Full screenplay , visuals and trailer are being built.
+Stay locked in.
