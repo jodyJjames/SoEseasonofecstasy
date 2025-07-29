@@ -87,4 +87,9 @@ This folder will contain:
 
 📌 Let me know the next folder and I’ll format that README just like this.
 Want one for Animated Series next? Or Sponsors & Brands?
-
+what goes here later :
+Levels like Port of Spain , Maracas , Blue Devil Ridge
+Characters like Jody , Shorty , Kevin , Tulom
+Vehicles like bikes , drone cars , and boats
+Weapons like water guns , cutlass , paintball and pistol
+Power ups like weed boost , Jouvert madness and Rum Fury
