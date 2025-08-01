@@ -1,4 +1,20 @@
-lives#MASTER UNIVERSE##
+ Season of Ecxracy Universe
+Welcome to the official repo for the SoE Universe: 
+High Tide (movie)
+Island Trip ( animated series)
+SoE Kart Racing
+Smash of Ecstasy (brawler)
+All asstes, ;ore and code
+## Folders:
+/movie
+/series
+/games
+/assets
+/characters
+/docs
+Created by [Jody James](https://gitnub.com/jodyJjames)
+Trinidad to the world
+"What started as a dream in the islands is now a universe."lives#MASTER UNIVERSE##
 # SoEseasonofecstasy
 ## What This Universe Contains
 Each folder and project in this universe connects to a larger story, product, or platform that together forms a single shared universe with crossovers, lore , economics , tech, music, and movement.
